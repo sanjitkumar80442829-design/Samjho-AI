@@ -1,0 +1,7 @@
+{
+  "name": "Samjho AI",
+  "description": "रटने के लिए नहीं, समझने के लिए - Phase 5 Adaptive Teaching Loop: Solves “Student पढ़ रहा है लेकिन concept समझ नहीं आ रहा” with dynamic strategy progression (Simple -> Analogy -> Concrete Example -> Step-by-Step -> Visual -> Prerequisite Diagnosis) and supportive student feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Samjho AI</string>
+    <string name="app_tagline">रटने के लिए नहीं, समझने के लिए।</string>
+    <string name="app_tagline_en">Not for rote memorization, for deep understanding.</string>
+</resources>
